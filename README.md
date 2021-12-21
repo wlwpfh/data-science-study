@@ -61,3 +61,17 @@ studying data-science with python, R
 
 ### 참고 사이트
 - colab https://colab.research.google.com/
+
+------------------------------------------
+
+### tip
+
+* countplot - 하나의 값을 그린다. 데이터가 범주형일 때 (x축이나 y축 이용)
+* 그 외에 데이터가 연속형일 때 (barplot, distplot, boxplot, pointplot, scatterplot)
+
+-------------------------------------
+
+### folium install
+!conda install -c conda-forge folium
+pip install folium -( anacomda cmd에서 관리자형으로 열어서 )
+import folium
