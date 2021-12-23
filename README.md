@@ -75,3 +75,32 @@ studying data-science with python, R
 !conda install -c conda-forge folium
 pip install folium -( anacomda cmd에서 관리자형으로 열어서 )
 import folium
+
+--------------------------------------
+
+### selenium install 
+1) `Chrome version 확인` :
+
+![Chrome_versionpng.png](attachment:Chrome_versionpng.png)
+
+
+
+2) `Webdriver 사이트 접속 및 Download` :
+
+https://chromedriver.chromium.org/downloads
+
+![Webdriver_download.JPG](attachment:Webdriver_download.JPG)
+
+
+3) `다양한 browser 위한 Webdriver` :
+
+https://selenium-python.readthedocs.io/api.html
+
+exe파일 실행하지말고 해당 폴더로 복사하기 
+
+-> !pip install selenium 
+
+--------------------------
+
+### 글자가 깨질 때
+matplotlib.rc('font', family='Malgun Gothic') # for Windows
