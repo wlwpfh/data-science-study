@@ -104,3 +104,17 @@ exe파일 실행하지말고 해당 폴더로 복사하기
 
 ### 글자가 깨질 때
 matplotlib.rc('font', family='Malgun Gothic') # for Windows
+
+
+---------------------------
+
+### Machine Learning
+1) Supervised
+	-> feature(문제, 함수)와 label(답)로 구성된 data 
+	-> feature를 fit하여 label을 predict
+		* classification(분류) : 범주형 데이터
+		* regression(회귀) : 연속형 데이터 
+2) Non(Un)-Supervised
+	-> feature(문제, 함수)로 구성된 data 
+	-> 수학에 근거한 알고리즘
+3) Reinforce (강화학습)
