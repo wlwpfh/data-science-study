@@ -118,3 +118,9 @@ matplotlib.rc('font', family='Malgun Gothic') # for Windows
 	-> feature(문제, 함수)로 구성된 data 
 	-> 수학에 근거한 알고리즘
 3) Reinforce (강화학습)
+
+---------------------------
+### prophet 설치
+
+conda install -c conda-forge prophet
+
