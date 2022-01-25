@@ -124,3 +124,10 @@ matplotlib.rc('font', family='Malgun Gothic') # for Windows
 
 conda install -c conda-forge prophet
 
+----------------
+
+### prophet 참고 사이트
+- https://facebook.github.io/prophet/docs/quick_start.html 
+
+- https://www.kaggle.com/robikscube/time-series-forecasting-with-prophet/notebook 
+
